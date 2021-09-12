@@ -6,5 +6,5 @@ I am a recent General Assembly graduate from the Software Engineering Immersive 
 I am a meticulous, driven, and creative thinker who has worked professionally in both team and independent settings for the last ten years.
 
 Please feel free to check out
-[https://nickmackenzie.dev](nickmackenzie.dev)
+[https://www.nickmackenzie.dev](nickmackenzie.dev)
 for live versions of my projects.
